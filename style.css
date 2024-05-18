@@ -9,3 +9,10 @@
     font-family: "Bodoni Moda", serif;    
     font-weight: 800;
 }
+.card {
+  opacity: 0.5;
+  background-color: gray;
+}
+.card row {
+  opacity: 1;
+}
