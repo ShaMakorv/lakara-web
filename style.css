@@ -9,6 +9,12 @@
     font-family: "Bodoni Moda", serif;    
     font-weight: 800;
 }
+.tulisan-aboutus {
+  font-family: "Bodoni Moda", serif;    
+  font-weight: 800;
+  font-style: normal;
+  font-size: 32px;
+}
 .card {
   opacity: 0.5;
   background-color: gray;
